@@ -1,0 +1,24 @@
+
+.palette-bg {
+    background-color: #17A2B8;
+}
+
+.palette {
+    color: #17A2B8;
+}
+
+a.btn-primary:hover {
+    background-color: #FF849D;
+}
+
+button.palette-bg:hover {
+    background-color: rgb(252, 119, 146);
+}
+
+a.btn-default:hover {
+    background-color: #FF849D;
+}
+
+.background-image-container {
+    background-color: #FF849D;
+}
