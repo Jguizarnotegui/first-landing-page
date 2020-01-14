@@ -6,6 +6,9 @@
 .palette {
     color: #17A2B8;
 }
+.black {
+    color: #FF849D;
+}
 
 a.btn-primary:hover {
     background-color: #FF849D;
@@ -21,4 +24,15 @@ a.btn-default:hover {
 
 .background-image-container {
     background-color: #FF849D;
+}
+
+.my-name {
+    color: white;
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-title {
+        font-size: 5rem;
+    }
 }
